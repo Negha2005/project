@@ -1,26 +1,25 @@
-# [Project Name] 🎯
+# [Home service] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [The Warriors]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Anjana TB] - [College of engineering Pathanapuram]
+- Member 2: [Negha P Nair] - [College of engineering Pathanapuram]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Home Services At Your Doorstep]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[People facing problem in unavailability of employers for home services]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[By using this website, we solve by providing the employers at the doorstep ]
 
 ## Technical Details
 ### Technologies/Components Used
